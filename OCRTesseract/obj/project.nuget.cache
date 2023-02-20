@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/GV1FLyYbHpjN1gK1QtV1jCBZNBF2GiYBFPivpyM3itSTWt/CTWn6GBrdc6hL5Jr9wynO30b4+iOHO21O78jkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMILCAR\\source\\repos\\Delegados\\OCRTesseract\\OCRTesseract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMILCAR\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\AMILCAR\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

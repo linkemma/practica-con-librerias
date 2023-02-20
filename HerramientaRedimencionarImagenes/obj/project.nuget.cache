@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TWvSsp2ny1lH1eB2Zy2kytWvTifZh7ZFXt9A53RX49ekKlAqAFXuTRmivojIzZieAANNeuMChf52XxajjWONkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMILCAR\\source\\repos\\Delegados\\HerramientaRedimencionarImagenes\\HerramientaRedimencionarImagenes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMILCAR\\.nuget\\packages\\magick.net-q16-anycpu\\12.2.2\\magick.net-q16-anycpu.12.2.2.nupkg.sha512",
+    "C:\\Users\\AMILCAR\\.nuget\\packages\\magick.net.core\\12.2.2\\magick.net.core.12.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
